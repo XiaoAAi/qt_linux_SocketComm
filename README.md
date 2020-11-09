@@ -1,0 +1,2 @@
+# qt_linux_SocketComm
+使用Qt在Linux下开发Socket转发后台
